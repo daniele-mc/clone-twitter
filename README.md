@@ -1,6 +1,6 @@
 # UI Clone - Twitter Responsive
 
-Clone responsivo da interface do Twitter na tela de perfil.
+Responsive clone of the Twitter interface on the profile screen.
 
 ## Available Scripts
 
