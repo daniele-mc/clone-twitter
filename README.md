@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# UI Clone - Twitter Responsive
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone responsivo da interface do Twitter na tela de perfil.
 
 ## Available Scripts
 
